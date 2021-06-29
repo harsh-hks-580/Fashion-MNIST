@@ -33,16 +33,15 @@ We use the data set with  CNN model is based on the ResNet architecture with 18 
 The model performance was comapred on different batch sizes of {64,256,512} images with learning rate set to 0.01 and 50 epochs.
 
 # Performance
-
-###Legend
+### Legend
 
 ![Screenshot (25)](https://user-images.githubusercontent.com/53375807/123836356-3d47ce00-d927-11eb-8fe7-f21c443e6f3a.png)
 
-##Accuracy
+## Accuracy
 
 ![Accuracy](https://user-images.githubusercontent.com/53375807/123836406-4df84400-d927-11eb-8ed6-2260ea0351d5.png)
 
-###Loss
+### Loss
 
 ![Loss](https://user-images.githubusercontent.com/53375807/123836402-4cc71700-d927-11eb-85fe-95b5eae22c93.png)
 
