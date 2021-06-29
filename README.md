@@ -24,5 +24,13 @@ Convolutional Neural Networks are excellent NN architectures to apply to compute
 
 We use the data set with  CNN model is based on the ResNet architecture with 18 layers.
 
+![f941fa481a9d8987b5022f1a8bade653](https://user-images.githubusercontent.com/53375807/123834028-9b26e680-d924-11eb-9d9c-8299b87d2e92.png)
 
+*Resnet-18 architechture implementation on [CIFAR-10 dataset](https://www.cs.toronto.edu/~kriz/cifar.html).*
+
+## Hyperparameters
+
+The model performance was comapred on different batch sizes of {64,256,512} images with learning rate set to 0.01 and 50 epochs.
+
+# Performance
 
